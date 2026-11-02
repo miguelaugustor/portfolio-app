@@ -2,6 +2,7 @@
   "expo": {
     "name": "portfolio-app",
     "slug": "portfolio-app",
+    "owner": "unicap",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
